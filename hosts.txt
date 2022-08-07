@@ -1,0 +1,5 @@
+127.0.0.1  localhost
+::1  localhost
+
+# [googleadservices.com]
+127.0.0.1 www.googleadservices.com
